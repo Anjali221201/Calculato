@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin:50px 0;
+    color: rgb(255, 225, 125);
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.yellow{
+    background-color: rgb(244, 189, 6);
+    font-weight: bolder;
+}
